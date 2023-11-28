@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TMDB</string>
+    <string name="welcome_title">This product uses the TMDb API but is not endorsed or certified by TMDB</string>
+    <string name="welcome_welcome_movies_button">Movies</string>
+    <string name="welcome_welcome_tvshows_button">TV Shows</string>
+    <string name="welcome_welcome_favorites_button">Favorites</string>
+    <string name="welcome_subscription_button">Subscribe</string>
+</resources>
